@@ -1,0 +1,32 @@
+rank,ethnicity,gender,language,age,bty_avg,eval_categorical
+teaching,minority,female,english,46,5,good
+teaching,not minority,male,english,56,5,bad
+teaching,not minority,male,english,40,7,good
+tenure track,minority,male,english,54,3,bad
+teaching,not minority,male,english,40,8,good
+teaching,not minority,male,english,55,8,bad
+teaching,not minority,male,english,40,4,bad
+tenured,not minority,male,english,47,4,good
+teaching,minority,female,non-english,42,8,good
+teaching,not minority,male,english,42,6,good
+teaching,not minority,male,english,42,4,good
+tenure track,not minority,male,english,43,3,bad
+teaching,minority,female,english,58,3,bad
+teaching,not minority,female,non-english,58,4,bad
+teaching,not minority,male,english,45,3.333,good
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,good
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,good
+tenured,not minority,male,english,57,2.833,good
+tenured,not minority,male,english,57,2.833,good
+tenured,not minority,male,english,57,2.833,bad
+tenured,not minority,male,english,57,2.833,good
+teaching,not minority,female,english,47,6.667,bad
+teaching,not minority,female,english,47,6.667,good
+teaching,not minority,female,english,47,6.667,good
+teaching,not minority,female,english,47,6.667,good
+teaching,not minority,female,english,47,6.667,bad
